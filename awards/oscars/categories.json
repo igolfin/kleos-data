@@ -1,0 +1,15 @@
+{
+  "categories": [
+    {
+      "id": "best_picture",
+      "name": "Best Picture",
+      "nominees": [
+        "Dune: Part Two",
+        "Oppenheimer",
+        "Poor Things",
+        "Killers of the Flower Moon",
+        "Past Lives"
+      ]
+    }
+  ]
+}
