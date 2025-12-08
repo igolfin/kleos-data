@@ -1,15 +1,51 @@
-{
-  "categories": [
-    {
-      "id": "best_picture",
-      "name": "Best Picture",
-      "nominees": [
-        "Dune: Part Two",
-        "Oppenheimer",
-        "Poor Things",
-        "Killers of the Flower Moon",
-        "Past Lives"
-      ]
-    }
-  ]
-}
+[
+  {
+    "id": "best_picture",
+    "name": "Best Picture",
+    "nominees": [
+      "Anora",
+      "The Brutalist",
+      "A Complete Unknown",
+      "Conclave",
+      "Dune: Part Two",
+      "Emilia Pérez",
+      "I'm Still Here",
+      "Nickel Boys",
+      "The Substance",
+      "Wicked"
+    ]
+  },
+  {
+    "id": "best_actor",
+    "name": "Actor in a Leading Role",
+    "nominees": [
+      "Adrien Brody – The Brutalist",
+      "Timothée Chalamet – A Complete Unknown",
+      "Colman Domingo – Sing Sing",
+      "Ralph Fiennes – Conclave",
+      "Sebastian Stan – The Apprentice"
+    ]
+  },
+  {
+    "id": "best_actress",
+    "name": "Actress in a Leading Role",
+    "nominees": [
+      "Mikey Madison – Anora",
+      "Cynthia Erivo – Wicked",
+      "Karla Sofía Gascón – Emilia Pérez",
+      "Demi Moore – The Substance",
+      "Fernanda Torres – I'm Still Here"
+    ]
+  },
+  {
+    "id": "best_director",
+    "name": "Directing",
+    "nominees": [
+      "Sean Baker – Anora",
+      "Brady Corbet – The Brutalist",
+      "James Mangold – A Complete Unknown",
+      "Jacques Audiard – Emilia Pérez",
+      "Coralie Fargeat – The Substance"
+    ]
+  }
+]
