@@ -105,87 +105,198 @@
     "nominees": []
   },
 
-  {
-    "id": "best_bollywood_actor",
-    "name": "Best Bollywood Actor",
-    "nominees": []
-  },
-  {
-    "id": "best_bollywood_actress",
-    "name": "Best Bollywood Actress",
-    "nominees": []
-  },
-  {
-    "id": "best_cricket_player",
-    "name": "Best Cricket Player",
-    "nominees": []
-  },
-  {
-    "id": "best_south_indian_actor",
-    "name": "Best South Indian Actor",
-    "nominees": []
-  },
-  {
-    "id": "best_indian_song",
-    "name": "Best Indian Song",
-    "nominees": []
-  },
-
-  {
-    "id": "best_ppop_group",
-    "name": "Best P-pop Group",
-    "nominees": []
-  },
-  {
-    "id": "best_dangdut_artist",
-    "name": "Best Dangdut Artist",
-    "nominees": []
-  },
-  {
-    "id": "best_thai_bl_actor",
-    "name": "Best Thai BL Actor",
-    "nominees": []
-  },
-
-  {
-    "id": "best_kpop_comeback",
-    "name": "Best K-pop Comeback",
-    "nominees": []
-  },
-  {
-    "id": "best_mv",
-    "name": "Best MV",
-    "nominees": []
-  },
-  {
-    "id": "best_fandom",
-    "name": "Best Fandom",
-    "nominees": []
-  },
-  {
-    "id": "best_rookie_group",
-    "name": "Best Rookie Group",
-    "nominees": []
-  },
-
-  {
-    "id": "best_seasonal_anime",
-    "name": "Best Seasonal Anime",
-    "nominees": []
-  },
-  {
-    "id": "best_op_ed_song",
-    "name": "Best OP/ED Song",
-    "nominees": []
-  },
-  {
-    "id": "best_character",
-    "name": "Best Character",
-    "nominees": []
-  },
-  {
-    "id": "best_studio",
-    "name": "Best Studio",
-    "nominees": []
-  }
-]
+ {
+  "categories": [
+    {
+      "id": "best_bollywood_actor",
+      "name": "Best Bollywood Actor",
+      "nominees": [
+        "Shah Rukh Khan",
+        "Ranbir Kapoor",
+        "Ranveer Singh",
+        "Hrithik Roshan",
+        "Vicky Kaushal",
+        "Allu Arjun"
+      ]
+    },
+    {
+      "id": "best_bollywood_actress",
+      "name": "Best Bollywood Actress",
+      "nominees": [
+        "Deepika Padukone",
+        "Alia Bhatt",
+        "Kriti Sanon",
+        "Kiara Advani",
+        "Taapsee Pannu",
+        "Kangana Ranaut"
+      ]
+    },
+    {
+      "id": "best_cricket_player",
+      "name": "Best Cricket Player",
+      "nominees": [
+        "Virat Kohli",
+        "Rohit Sharma",
+        "Jasprit Bumrah",
+        "Pat Cummins",
+        "Babar Azam",
+        "Kane Williamson"
+      ]
+    },
+    {
+      "id": "best_south_indian_actor",
+      "name": "Best South Indian Actor",
+      "nominees": [
+        "Mahesh Babu",
+        "Prabhas",
+        "Yash",
+        "Jr NTR",
+        "Ram Charan",
+        "Fahadh Faasil"
+      ]
+    },
+    {
+      "id": "best_indian_song",
+      "name": "Best Indian Song",
+      "nominees": [
+        "Jamal Jamaloo",
+        "Srivalli",
+        "Tum Kya Mile",
+        "Heeriye",
+        "Kesariya",
+        "Naatu Naatu"
+      ]
+    },
+    {
+      "id": "best_ppop_group",
+      "name": "Best P-pop Group",
+      "nominees": [
+        "SB19",
+        "BINI",
+        "ALAMAT",
+        "BGYO",
+        "1st.One",
+        "KAIA"
+      ]
+    },
+    {
+      "id": "best_dangdut_artist",
+      "name": "Best Dangdut Artist",
+      "nominees": [
+        "Lesti Kejora",
+        "Via Vallen",
+        "Inul Daratista",
+        "Ayu Ting Ting",
+        "Nella Kharisma",
+        "Happy Asmara"
+      ]
+    },
+    {
+      "id": "best_thai_bl_actor",
+      "name": "Best Thai BL Actor",
+      "nominees": [
+        "Bright Vachirawit",
+        "Win Metawin",
+        "Krist Perawat",
+        "Singto Prachaya",
+        "Mile Phakphum",
+        "Apo Nattawin"
+      ]
+    },
+    {
+      "id": "best_kpop_comeback",
+      "name": "Best K-pop Comeback",
+      "nominees": [
+        "SEVENTEEN – GOD OF MUSIC",
+        "NewJeans – Super Shy",
+        "LE SSERAFIM – EASY",
+        "Stray Kids – LALALALA",
+        "IVE – Baddie",
+        "aespa – Drama"
+      ]
+    },
+    {
+      "id": "best_kpop_rookie",
+      "name": "Best Rookie K-pop Group",
+      "nominees": [
+          "ILLIT",
+          "BABYMONSTER",
+          "TWS",
+          "RIIZE",
+          "ZEROBASEONE",
+          "NMIXX"
+      ]
+    },
+    {
+      "id": "best_mv",
+      "name": "Best Music Video (K-pop)",
+      "nominees": [
+        "TXT – Chasing That Feeling",
+        "NewJeans – ETA",
+        "Jungkook – Seven",
+        "LE SSERAFIM – Perfect Night",
+        "ATEEZ – Bouncy",
+        "Blackpink – Pink Venom"
+      ]
+    },
+    {
+      "id": "best_fandom",
+      "name": "Best Fandom",
+      "nominees": [
+        "ARMY (BTS)",
+        "ONCE (TWICE)",
+        "CARAT (SEVENTEEN)",
+        "STAY (Stray Kids)",
+        "BLINK (Blackpink)",
+        "ENGENE (ENHYPEN)"
+      ]
+    },
+    {
+      "id": "best_seasonal_anime",
+      "name": "Best Seasonal Anime",
+      "nominees": [
+        "Jujutsu Kaisen",
+        "Attack on Titan: The Final Season",
+        "Demon Slayer",
+        "Spy x Family",
+        "Frieren: Beyond Journey’s End",
+        "Chainsaw Man"
+      ]
+    },
+    {
+      "id": "best_op_ed",
+      "name": "Best OP/ED Song",
+      "nominees": [
+        "Kaikai Kitan – Eve (Jujutsu Kaisen OP)",
+        "Gurenge – LiSA (Demon Slayer OP)",
+        "Mixed Nuts – Official HIGE DANdism (Spy x Family OP)",
+        "Zankyou Sanka – Aimer (Demon Slayer OP)",
+        "Idol – Yoasobi (Oshi no Ko OP)"
+      ]
+    },
+    {
+      "id": "best_anime_character",
+      "name": "Best Anime Character",
+      "nominees": [
+        "Gojo Satoru – Jujutsu Kaisen",
+        "Anya Forger – Spy x Family",
+        "Tanjiro Kamado – Demon Slayer",
+        "Eren Yeager – Attack on Titan",
+        "Makima – Chainsaw Man",
+        "Loid Forger – Spy x Family"
+      ]
+    },
+    {
+      "id": "best_anime_studio",
+      "name": "Best Anime Studio",
+      "nominees": [
+        "MAPPA",
+        "Ufotable",
+        "Wit Studio",
+        "CloverWorks",
+        "Kyoto Animation",
+        "Bones"
+      ]
+    }
+  ]
+}
