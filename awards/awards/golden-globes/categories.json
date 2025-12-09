@@ -1,0 +1,31 @@
+[
+  {
+    "id": "best_motion_picture_drama",
+    "name": "Best Motion Picture – Drama",
+    "nominees": [
+      "Oppenheimer",
+      "Killers of the Flower Moon",
+      "Maestro",
+      "Past Lives",
+      "The Zone of Interest"
+    ]
+  },
+  {
+    "id": "best_actor_drama",
+    "name": "Best Actor – Drama",
+    "nominees": [
+      "Cillian Murphy – Oppenheimer",
+      "Bradley Cooper – Maestro",
+      "Leonardo DiCaprio – Killers of the Flower Moon"
+    ]
+  },
+  {
+    "id": "best_actress_drama",
+    "name": "Best Actress – Drama",
+    "nominees": [
+      "Lily Gladstone – Killers of the Flower Moon",
+      "Annette Bening – Nyad",
+      "Sandra Hüller – Anatomy of a Fall"
+    ]
+  }
+]
