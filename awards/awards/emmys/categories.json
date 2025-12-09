@@ -1,0 +1,32 @@
+[
+  {
+    "id": "best_drama",
+    "name": "Best Drama Series",
+    "nominees": [
+      "Succession",
+      "The Last of Us",
+      "Better Call Saul",
+      "The White Lotus"
+    ]
+  },
+  {
+    "id": "best_comedy",
+    "name": "Best Comedy Series",
+    "nominees": [
+      "Ted Lasso",
+      "The Bear",
+      "Barry",
+      "Abbott Elementary"
+    ]
+  },
+  {
+    "id": "best_actor_tv",
+    "name": "Best Actor in a Drama",
+    "nominees": [
+      "Pedro Pascal – The Last of Us",
+      "Bob Odenkirk – Better Call Saul",
+      "Jeremy Strong – Succession",
+      "Brian Cox – Succession"
+    ]
+  }
+]
