@@ -1,0 +1,35 @@
+[
+  {
+    "id": "album_of_the_year",
+    "name": "Album of the Year",
+    "nominees": [
+      "Taylor Swift – Midnights",
+      "SZA – SOS",
+      "Olivia Rodrigo – Guts",
+      "Miley Cyrus – Endless Summer Vacation",
+      "Lana Del Rey – Did You Know..."
+    ]
+  },
+  {
+    "id": "song_of_the_year",
+    "name": "Song of the Year",
+    "nominees": [
+      "Miley Cyrus – Flowers",
+      "Taylor Swift – Anti-Hero",
+      "SZA – Kill Bill",
+      "Jon Batiste – Butterfly",
+      "Billie Eilish – What Was I Made For?"
+    ]
+  },
+  {
+    "id": "best_new_artist",
+    "name": "Best New Artist",
+    "nominees": [
+      "Ice Spice",
+      "Noah Kahan",
+      "Victoria Monét",
+      "Gracie Abrams",
+      "The War and Treaty"
+    ]
+  }
+]
