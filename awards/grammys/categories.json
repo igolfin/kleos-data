@@ -1,35 +1,94 @@
 [
   {
-    "id": "album_of_the_year",
-    "name": "Album of the Year",
-    "nominees": [
-      "Taylor Swift – Midnights",
-      "SZA – SOS",
-      "Olivia Rodrigo – Guts",
-      "Miley Cyrus – Endless Summer Vacation",
-      "Lana Del Rey – Did You Know..."
-    ]
-  },
-  {
-    "id": "song_of_the_year",
-    "name": "Song of the Year",
-    "nominees": [
-      "Miley Cyrus – Flowers",
-      "Taylor Swift – Anti-Hero",
-      "SZA – Kill Bill",
-      "Jon Batiste – Butterfly",
-      "Billie Eilish – What Was I Made For?"
-    ]
-  },
-  {
-    "id": "best_new_artist",
-    "name": "Best New Artist",
-    "nominees": [
-      "Ice Spice",
-      "Noah Kahan",
-      "Victoria Monét",
-      "Gracie Abrams",
-      "The War and Treaty"
-    ]
-  }
-]
+  "categories": [
+    {
+      "id": "album_of_the_year",
+      "name": "Album of the Year",
+      "nominees": [
+        "Taylor Swift – The Tortured Poets Department",
+        "SZA – SOS",
+        "Billie Eilish – Hit Me Hard and Soft",
+        "Olivia Rodrigo – GUTS",
+        "Lana Del Rey – Did You Know That There's a Tunnel Under Ocean Blvd",
+        "Boygenius – The Record",
+        "Miley Cyrus – Endless Summer Vacation",
+        "Bad Bunny – Nadie Sabe Lo Que Va a Pasar Mañana"
+      ]
+    },
+    {
+      "id": "record_of_the_year",
+      "name": "Record of the Year",
+      "nominees": [
+        "Flowers – Miley Cyrus",
+        "Anti-Hero – Taylor Swift",
+        "Vampire – Olivia Rodrigo",
+        "Kill Bill – SZA",
+        "What Was I Made For? – Billie Eilish",
+        "Seven – Jungkook feat. Latto",
+        "Espresso – Sabrina Carpenter",
+        "Greedy – Tate McRae"
+      ]
+    },
+    {
+      "id": "song_of_the_year",
+      "name": "Song of the Year",
+      "nominees": [
+        "What Was I Made For? – Billie Eilish & Finneas",
+        "Anti-Hero – Taylor Swift",
+        "Vampire – Olivia Rodrigo",
+        "Kill Bill – SZA",
+        "Flowers – Miley Cyrus",
+        "A&W – Lana Del Rey",
+        "Not Strong Enough – Boygenius",
+        "Greedy – Tate McRae"
+      ]
+    },
+    {
+      "id": "best_new_artist",
+      "name": "Best New Artist",
+      "nominees": [
+        "Ice Spice",
+        "Noah Kahan",
+        "Victoria Monét",
+        "Tyla",
+        "Chappell Roan",
+        "Jung Kook",
+        "PinkPantheress",
+        "Peggy Gou"
+      ]
+    },
+    {
+      "id": "best_pop_vocal_album",
+      "name": "Best Pop Vocal Album",
+      "nominees": [
+        "The Tortured Poets Department – Taylor Swift",
+        "GUTS – Olivia Rodrigo",
+        "Hit Me Hard and Soft – Billie Eilish",
+        "Endless Summer Vacation – Miley Cyrus",
+        "The Record – Boygenius"
+      ]
+    },
+    {
+      "id": "best_rap_album",
+      "name": "Best Rap Album",
+      "nominees": [
+        "UTOPIA – Travis Scott",
+        "Heroes & Villains – Metro Boomin",
+        "SOS – SZA",
+        "For All the Dogs – Drake",
+        "Almost Healed – Lil Durk"
+      ]
+    },
+    {
+      "id": "best_global_music_performance",
+      "name": "Best Global Music Performance",
+      "nominees": [
+        "Water – Tyla",
+        "Calm Down – Rema & Selena Gomez",
+        "Seven – Jungkook feat. Latto",
+        "SPOT! – ZICO feat. Jennie",
+        "Super Shy – NewJeans"
+      ]
+    }
+  ]
+}
