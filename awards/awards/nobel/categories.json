@@ -1,0 +1,29 @@
+[
+  {
+    "id": "physics",
+    "name": "Physics",
+    "nominees": [
+      "Alain Aspect, John F. Clauser, Anton Zeilinger",
+      "David J. Wineland, Serge Haroche",
+      "Roger Penrose, Reinhard Genzel, Andrea Ghez"
+    ]
+  },
+  {
+    "id": "chemistry",
+    "name": "Chemistry",
+    "nominees": [
+      "Emmanuelle Charpentier, Jennifer Doudna",
+      "John B. Goodenough, M. Stanley Whittingham, Akira Yoshino",
+      "Frances H. Arnold, George P. Smith, Sir Gregory P. Winter"
+    ]
+  },
+  {
+    "id": "medicine",
+    "name": "Medicine",
+    "nominees": [
+      "Svante Pääbo",
+      "David Julius, Ardem Patapoutian",
+      "Harvey J. Alter, Michael Houghton, Charles M. Rice"
+    ]
+  }
+]
