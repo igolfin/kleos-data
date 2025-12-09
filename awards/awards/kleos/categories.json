@@ -1,0 +1,191 @@
+[
+  {
+    "id": "best_movie",
+    "name": "Best Movie",
+    "nominees": []
+  },
+  {
+    "id": "best_actor",
+    "name": "Best Actor",
+    "nominees": []
+  },
+  {
+    "id": "best_show",
+    "name": "Best Show",
+    "nominees": []
+  },
+
+  {
+    "id": "best_song_year",
+    "name": "Best Song of the Year",
+    "nominees": []
+  },
+  {
+    "id": "best_album",
+    "name": "Best Album",
+    "nominees": []
+  },
+  {
+    "id": "best_artist_overall",
+    "name": "Best Artist Overall",
+    "nominees": []
+  },
+
+  {
+    "id": "best_youtuber",
+    "name": "Best YouTuber",
+    "nominees": []
+  },
+  {
+    "id": "best_streamer",
+    "name": "Best Streamer",
+    "nominees": []
+  },
+  {
+    "id": "best_podcast",
+    "name": "Best Podcast",
+    "nominees": []
+  },
+  {
+    "id": "best_tiktok_trend",
+    "name": "Best TikTok Trend",
+    "nominees": []
+  },
+  {
+    "id": "best_meme",
+    "name": "Best Meme",
+    "nominees": []
+  },
+
+  {
+    "id": "best_game",
+    "name": "Best Game",
+    "nominees": []
+  },
+  {
+    "id": "best_ai_model",
+    "name": "Best AI Model",
+    "nominees": []
+  },
+  {
+    "id": "best_tech_year",
+    "name": "Best Tech of the Year",
+    "nominees": []
+  },
+
+  {
+    "id": "best_athlete",
+    "name": "Best Athlete",
+    "nominees": []
+  },
+  {
+    "id": "best_fashion_icon",
+    "name": "Best Fashion Icon",
+    "nominees": []
+  },
+  {
+    "id": "best_comedian",
+    "name": "Best Comedian",
+    "nominees": []
+  },
+  {
+    "id": "best_author",
+    "name": "Best Author",
+    "nominees": []
+  },
+
+  {
+    "id": "best_scientist",
+    "name": "Best Scientist",
+    "nominees": []
+  },
+  {
+    "id": "best_humanitarian",
+    "name": "Best Humanitarian",
+    "nominees": []
+  },
+
+  {
+    "id": "best_bollywood_actor",
+    "name": "Best Bollywood Actor",
+    "nominees": []
+  },
+  {
+    "id": "best_bollywood_actress",
+    "name": "Best Bollywood Actress",
+    "nominees": []
+  },
+  {
+    "id": "best_cricket_player",
+    "name": "Best Cricket Player",
+    "nominees": []
+  },
+  {
+    "id": "best_south_indian_actor",
+    "name": "Best South Indian Actor",
+    "nominees": []
+  },
+  {
+    "id": "best_indian_song",
+    "name": "Best Indian Song",
+    "nominees": []
+  },
+
+  {
+    "id": "best_ppop_group",
+    "name": "Best P-pop Group",
+    "nominees": []
+  },
+  {
+    "id": "best_dangdut_artist",
+    "name": "Best Dangdut Artist",
+    "nominees": []
+  },
+  {
+    "id": "best_thai_bl_actor",
+    "name": "Best Thai BL Actor",
+    "nominees": []
+  },
+
+  {
+    "id": "best_kpop_comeback",
+    "name": "Best K-pop Comeback",
+    "nominees": []
+  },
+  {
+    "id": "best_mv",
+    "name": "Best MV",
+    "nominees": []
+  },
+  {
+    "id": "best_fandom",
+    "name": "Best Fandom",
+    "nominees": []
+  },
+  {
+    "id": "best_rookie_group",
+    "name": "Best Rookie Group",
+    "nominees": []
+  },
+
+  {
+    "id": "best_seasonal_anime",
+    "name": "Best Seasonal Anime",
+    "nominees": []
+  },
+  {
+    "id": "best_op_ed_song",
+    "name": "Best OP/ED Song",
+    "nominees": []
+  },
+  {
+    "id": "best_character",
+    "name": "Best Character",
+    "nominees": []
+  },
+  {
+    "id": "best_studio",
+    "name": "Best Studio",
+    "nominees": []
+  }
+]
