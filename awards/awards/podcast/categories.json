@@ -1,0 +1,27 @@
+[
+  {
+    "id": "best_podcast",
+    "name": "Best Podcast",
+    "nominees": []
+  },
+  {
+    "id": "best_podcast_host",
+    "name": "Best Podcast Host",
+    "nominees": []
+  },
+  {
+    "id": "best_true_crime_podcast",
+    "name": "Best True Crime Podcast",
+    "nominees": []
+  },
+  {
+    "id": "best_comedy_podcast",
+    "name": "Best Comedy Podcast",
+    "nominees": []
+  },
+  {
+    "id": "best_educational_podcast",
+    "name": "Best Educational Podcast",
+    "nominees": []
+  }
+]
