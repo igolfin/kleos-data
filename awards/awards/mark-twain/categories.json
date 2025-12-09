@@ -1,0 +1,21 @@
+[
+  {
+    "id": "comedy_legends",
+    "name": "Comedy Legends Honored",
+    "nominees": [
+      "Jon Stewart",
+      "Eddie Murphy",
+      "Tina Fey",
+      "Whoopi Goldberg"
+    ]
+  },
+  {
+    "id": "best_standup",
+    "name": "Best Stand-Up Special",
+    "nominees": [
+      "Dave Chappelle – The Closer",
+      "John Mulaney – Baby J",
+      "Hasan Minhaj – The King’s Jester"
+    ]
+  }
+]
