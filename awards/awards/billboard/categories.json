@@ -1,0 +1,30 @@
+[
+  {
+    "id": "top_artist",
+    "name": "Top Artist",
+    "nominees": [
+      "Taylor Swift",
+      "Drake",
+      "Beyoncé",
+      "The Weeknd"
+    ]
+  },
+  {
+    "id": "top_album",
+    "name": "Top Billboard 200 Album",
+    "nominees": [
+      "Midnights – Taylor Swift",
+      "SOS – SZA",
+      "Un Verano Sin Ti – Bad Bunny"
+    ]
+  },
+  {
+    "id": "top_song",
+    "name": "Top Hot 100 Song",
+    "nominees": [
+      "Flowers – Miley Cyrus",
+      "Anti-Hero – Taylor Swift",
+      "Kill Bill – SZA"
+    ]
+  }
+]
